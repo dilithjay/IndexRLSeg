@@ -1,0 +1,7 @@
+.neptune/
+dataset/
+lightning_logs/
+models/
+__pycache__/
+*.csv
+*.pkl
